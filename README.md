@@ -100,13 +100,13 @@ If used in the browser, the following scripts would be needed:
 ```html
 <-- include "index-1900-2050", "index-1970-2038"
     or "index-2012-2022" to save your package size -->
-<script arc="https://unpkg.com/timezone-support/dist/index.umd.js"></script>
-<script arc="https://unpkg.com/fast-plural-rules/dist/index.umd.js"></script>
-<script arc="https://unpkg.com/dayjs-ext/dayjs.min.js"></script>
-<script arc="https://unpkg.com/dayjs-ext/plugin/timeZone.js"></script>
-<script arc="https://unpkg.com/dayjs-ext/plugin/customParseFormat.js"></script>
-<script arc="https://unpkg.com/dayjs-ext/plugin/localizableFormat.js"></script>
-<script arc="https://unpkg.com/dayjs-ext/plugin/relativeTime.js"></script>
+<script src="https://unpkg.com/timezone-support/dist/index.umd.js"></script>
+<script src="https://unpkg.com/fast-plural-rules/dist/index.umd.js"></script>
+<script src="https://unpkg.com/dayjs-ext/dayjs.min.js"></script>
+<script src="https://unpkg.com/dayjs-ext/plugin/timeZone.js"></script>
+<script src="https://unpkg.com/dayjs-ext/plugin/customParseFormat.js"></script>
+<script src="https://unpkg.com/dayjs-ext/plugin/localizableFormat.js"></script>
+<script src="https://unpkg.com/dayjs-ext/plugin/relativeTime.js"></script>
 ```
 
 ## Getting Started
